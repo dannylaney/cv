@@ -1,0 +1,125 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+#sectionOne {
+  background-color: #aacfcf;
+  margin: 0px;
+  padding-top: 100px;
+  position: relative;
+  margin-top: 0px;
+  font-size: 5em;
+  font-family: 'Sacramento', cursive;
+}
+
+#sectionOne p {
+  position: relative;
+  bottom: 100px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: 0px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+#sectionTwo {
+  margin: 100px 0px;
+}
+
+#sectionThree {
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+  margin-top: 0px;
+  background-color: #66BFBF;
+
+}
+
+#topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+#bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+#skillRowOne {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+#skillRowTwo {
+  width: 50%;
+  margin: 250px auto;
+  text-align: left;
+}
+
+#intro {
+  width: 30%;
+  margin: auto;
+}
+
+#webDev {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+  height: 25%;
+}
+
+#appDev {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+  height: 25%;
+}
+
+#contactMessage {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #EAF6F6;
+}
+
+#copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
